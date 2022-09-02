@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
 <h3 align="center">A frontend web developer</h3>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS, TypeScript and Cypress**
 
-- 🌱 I’m currently learning **TypeScript, Cypress and Express**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://abdullah-portfolio.netlify.app/](https://abdullah-portfolio.netlify.app/)
 
