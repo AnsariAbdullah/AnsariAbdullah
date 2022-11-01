@@ -2,4 +2,5 @@ This file is made using a profile readme genrator:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 For having hasnode articles on github profile:
-https://imsadra.me/hashnode-blogs-on-github-profile#heading-3-create-the-action
+https://imsadra.me/hashnode-blogs-on-github-profile
+https://github.com/gautamkrishnar/blog-post-workflow
