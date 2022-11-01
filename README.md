@@ -13,11 +13,9 @@
 
 <h3 align="left">:books: Recent Blog Posts</h3>
 <!-- BLOGPOSTS:START -->
- - 🔥 [Hashnode Blogs on GitHub Profile](https://imsadra.me/hashnode-blogs-on-github-profile)
- - 🔥 [Python 3.11 - Five Cool Features!](https://imsadra.me/python-311-five-cool-features)
- - 🚀 [I Want That T-Shirt at Any Cost!](https://imsadra.me/i-want-that-t-shirt-at-any-cost)
- - 🚀 [Automate Your Python Package Release w/ GitHub Actions](https://imsadra.me/automate-your-python-package-release-w-github-actions)
- - 🚀 [Branch Like a Pro](https://imsadra.me/branch-like-a-pro)<!-- BLOGPOSTS:END -->
+ - [Rest Parameter with Function Parameters](https://developerabdullah.hashnode.dev/rest-parameter-with-function-parameters)
+ - [Using objects as key/value storage](https://developerabdullah.hashnode.dev/using-objects-as-keyvalue-storage)
+ - [Update node modules &amp; npm and install Yarn](https://developerabdullah.hashnode.dev/update-node-modules-and-npm-and-install-yarn)<!-- BLOGPOSTS:END -->
 
 
 
