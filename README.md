@@ -97,4 +97,12 @@
 	</a>
 </p>
 
-<!--- Generated using https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<h3 align="left">Badges:</h3>
+<p align="left">
+	<a href="https://www.holopin.io/userbadge/cla2up8yo138308mjf0ern9mn" target="blank">
+		<img align="center" src="./assets/surfer.webp" alt="abdullah-ansari-375685124" height="150" width="170" />
+	</a>
+	<a href="https://www.holopin.io/userbadge/cl9sv93i2037308lf5n24uwff" target="blank">
+		<img align="center" src="./assets/hacktober22.webp" alt="@ansariabdul" height="150" width="150" />
+	</a>
+</p>
