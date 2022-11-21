@@ -1,7 +1,6 @@
-name: Recent Blog Posts
+name: Fetch Hashnode Blog Posts
 on:
   schedule:
-    # Runs 6 hours day
     - cron: '0 12 * * *'
   workflow_dispatch:
 
