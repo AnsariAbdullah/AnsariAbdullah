@@ -13,12 +13,10 @@
 
 ### Recent Blog Posts
 <!-- BLOGPOSTS:START -->
-
+ - 🔥 [Destructuring in ES6](https://developerabdullah.hashnode.dev/destructuring-in-es6)
  - 🔥 [Rest Parameter with Function Parameters](https://developerabdullah.hashnode.dev/rest-parameter-with-function-parameters)
- - 🔥 [Using objects as key/value storage](https://developerabdullah.hashnode.dev/using-objects-as-keyvalue-storage)
- - 🚀 [Update node modules &amp; npm and install Yarn](https://developerabdullah.hashnode.dev/update-node-modules-and-npm-and-install-yarn)
-
-<!-- BLOGPOSTS:END -->
+ - 🚀 [Using objects as key/value storage](https://developerabdullah.hashnode.dev/using-objects-as-keyvalue-storage)
+ - 🚀 [Update node modules &amp; npm and install Yarn](https://developerabdullah.hashnode.dev/update-node-modules-and-npm-and-install-yarn)<!-- BLOGPOSTS:END -->
 
 
 
