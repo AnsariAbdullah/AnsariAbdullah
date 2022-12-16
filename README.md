@@ -31,9 +31,9 @@
 	<a href="https://codepen.io/abdullah-desynova" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullah-desynova" height="30" width="40" />
 	</a>
-  <a href="https://twitter.com/usr_abdullah" target="blank">
+  <!-- <a href="https://twitter.com/usr_abdullah" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usr_abdullah" height="30" width="40" />
-	</a>
+	</a> -->
 </p>
 
 
