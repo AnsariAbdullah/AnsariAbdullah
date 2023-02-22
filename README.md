@@ -99,6 +99,12 @@
 	</a>
 </p>
 
+
+<h3 align="left">Codewars:</h3>
+<p align="left">
+	<img align="center" src="https://www.codewars.com/users/AbdullahAnsari/badges/large?theme=dark" alt="badge"  />
+</p>
+
 <h3 align="left">Badges:</h3>
 <p align="left">
 	<a href="https://www.holopin.io/userbadge/cla2up8yo138308mjf0ern9mn" target="blank">
