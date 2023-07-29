@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **React JS, TypeScript and Cypress**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Express & NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://abdullah-portfolio.netlify.app/](https://abdullah-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Node, styled-components & scss**
+- 💬 Ask me about **React, JavaScript, TypeScript, styled-components & SCSS**
 
 - 📫 How to reach me **ansariabdullahar@gmail.com**
 
