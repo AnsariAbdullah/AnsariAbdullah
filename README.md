@@ -26,7 +26,7 @@
 	<!-- <a href="https://linkedin.com/in/abdullah-ansari-375685124" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ansari-375685124" height="30" width="40" />
 	</a> -->
-	<a href="https://hashnode.com/@ansariabdul" target="blank">
+	<a href="https://developerabdullah.hashnode.dev/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ansariabdul" height="30" width="40" />
 	</a>
 	<a href="https://codepen.io/abdullah-desynova" target="blank">
