@@ -23,16 +23,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<!-- <a href="https://linkedin.com/in/abdullah-ansari-375685124" target="blank">
+	<!-- <a href="https://linkedin.com/in/abdullah-ansari-375685124" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ansari-375685124" height="30" width="40" />
 	</a> -->
-	<a href="https://developerabdullah.hashnode.dev/" target="blank">
+	<a href="https://developerabdullah.hashnode.dev/" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ansariabdul" height="30" width="40" />
 	</a>
-	<a href="https://codepen.io/abdullah-desynova" target="blank">
+	<a href="https://codepen.io/abdullah-desynova" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullah-desynova" height="30" width="40" />
 	</a>
-  <!-- <a href="https://twitter.com/usr_abdullah" target="blank">
+  <!-- <a href="https://twitter.com/usr_abdullah" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usr_abdullah" height="30" width="40" />
 	</a> -->
 </p>
@@ -107,25 +107,25 @@
 
 <h3 align="left">Badges:</h3>
 <p align="left">
-	<a href="https://www.holopin.io/userbadge/cla2up8yo138308mjf0ern9mn" target="blank">
+	<a href="https://www.holopin.io/userbadge/cla2up8yo138308mjf0ern9mn" target="_blank">
 		<img align="center" src="./assets/surfer.webp" alt="abdullah-ansari-375685124" height="150" width="170" />
 	</a>
-	<a href="https://www.holopin.io/userbadge/cl9sv93i2037308lf5n24uwff" target="blank">
+	<a href="https://www.holopin.io/userbadge/cl9sv93i2037308lf5n24uwff" target="_blank">
 		<img align="center" src="./assets/hacktober22.webp" alt="@ansariabdul" height="150" width="150" />
 	</a>
-	<a href="https://www.holopin.io/userbadge/clam46cu6371509msdgoqyw4k" target="blank">
+	<a href="https://www.holopin.io/userbadge/clam46cu6371509msdgoqyw4k" target="_blank">
 		<img align="center" src="./assets/appwrite.webp" alt="@ansariabdul" height="150" width="150" />
 	</a>
-	<a href="https://www.holopin.io/userbadge/clndkoe3041820fjscc0669xu" target="blank">
+	<a href="https://www.holopin.io/userbadge/clndkoe3041820fjscc0669xu" target="_blank">
 		<img align="center" src="./assets/digitalocean_smiley.webp" alt="@ansariabdul" height="150" width="150" />
 	</a>
-	<a href="https://www.holopin.io/userbadge/clnezs5rd04300fjv9himbqgn" target="blank">
+	<a href="https://www.holopin.io/userbadge/clnezs5rd04300fjv9himbqgn" target="_blank">
 		<img align="center" src="./assets/hack23_prtipaton.webp" alt="@ansariabdul" height="180" width="180" />
 	</a>
-	<a href="https://www.holopin.io/userbadge/clnii3cfv108420fl28fa86qmf" target="blank">
+	<a href="https://www.holopin.io/userbadge/clnii3cfv108420fl28fa86qmf" target="_blank">
 		<img align="center" src="./assets/participation_2023.webp" alt="@ansariabdul" height="140" width="140" />
 	</a>
-	<a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnbpmksv175610fmhf4zss4p4" target="blank">
+	<a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnbpmksv175610fmhf4zss4p4" target="_blank">
 		<img align="center" src="./assets/hacktober23.webp" alt="@ansariabdul" height="130" width="130" />
 	</a>
 
