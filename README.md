@@ -123,7 +123,7 @@
 		<img align="center" src="./assets/hack23_prtipaton.webp" alt="@ansariabdul" height="180" width="180" />
 	</a>
 	<a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1izjsb031380cl3wm5yza1t" target="_blank">
-		<img align="center" src="./assets/hacktober24.webp" alt="@ansariabdul" height="150" width="150" />
+		<img align="center" src="./assets/hacktober24.webp" alt="@ansariabdul" height="120" width="120" />
 	</a>
 	<a href="https://www.holopin.io/userbadge/clnii3cfv108420fl28fa86qmf" target="_blank">
 		<img align="center" src="./assets/participation_2023.webp" alt="@ansariabdul" height="140" width="140" />
