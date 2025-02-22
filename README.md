@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<!-- <a href="https://linkedin.com/in/abdullah-ansari-375685124" target="_blank">
+	<a href="https://linkedin.com/in/abdullah-ansari-375685124" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-ansari-375685124" height="30" width="40" />
-	</a> -->
+	</a>
 	<a href="https://developerabdullah.hashnode.dev/" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ansariabdul" height="30" width="40" />
 	</a>
