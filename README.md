@@ -17,7 +17,8 @@
  - 💯 [Destructuring in ES6](https://developerabdullah.hashnode.dev/destructuring-in-es6)
  - 🌟 [Rest Parameter with Function Parameters](https://developerabdullah.hashnode.dev/rest-parameter-with-function-parameters)
  - 🌟 [Using objects as key/value storage](https://developerabdullah.hashnode.dev/using-objects-as-keyvalue-storage)
- - 🌮 [Update node modules &amp; npm and install Yarn](https://developerabdullah.hashnode.dev/update-node-modules-and-npm-and-install-yarn)<!-- BLOGPOSTS:END -->
+ - 🌮 [Update node modules &amp; npm and install Yarn](https://developerabdullah.hashnode.dev/update-node-modules-and-npm-and-install-yarn)
+ <!-- BLOGPOSTS:END -->
 
 
 
@@ -134,6 +135,7 @@
 	<a href="https://www.holopin.io/hacktoberfest2023/userbadge/clnbpmksv175610fmhf4zss4p4" target="_blank">
 		<img align="center" src="./assets/hacktober23.webp" alt="@ansariabdul" height="130" width="130" />
 	</a>
-
-	
+	<a href="https://www.holopin.io/userbadge/cmh9m8x83001ql604eykknj3r" target="_blank">
+		<img align="center" src="./assets/hacktober25.webp" alt="@ansariabdul" height="130" width="130" />
+	</a>
 </p>
