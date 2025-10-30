@@ -136,6 +136,9 @@
 		<img align="center" src="./assets/hacktober23.webp" alt="@ansariabdul" height="130" width="130" />
 	</a>
 	<a href="https://www.holopin.io/userbadge/cmh9m8x83001ql604eykknj3r" target="_blank">
-		<img align="center" src="./assets/hacktober25.webp" alt="@ansariabdul" height="130" width="130" />
+		<img align="center" src="./assets/hacktober25-1.webp" alt="@ansariabdul" height="130" width="130" />
+	</a>
+	<a href="https://www.holopin.io/userbadge/cmhawvr4l0022l204co5r8j1t" target="_blank">
+		<img align="center" src="./assets/hacktober25-2.webp" alt="@ansariabdul" height="130" width="130" />
 	</a>
 </p>
