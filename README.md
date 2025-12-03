@@ -33,9 +33,6 @@
 	<a href="https://codepen.io/abdullah-desynova" target="_blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdullah-desynova" height="30" width="40" />
 	</a>
-  <!-- <a href="https://twitter.com/usr_abdullah" target="_blank">
-		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usr_abdullah" height="30" width="40" />
-	</a> -->
 </p>
 
 
